@@ -1,0 +1,14 @@
+/*
+* @Author: huangzexia
+* @Date:   2016-12-29 20:02:35
+* @Last Modified by:   huangzexia
+* @Last Modified time: 2017-01-11 16:31:08
+*/
+@import '../../public/css/base.css'
+.login{
+  display: inline-block;
+ transform: rotate(45deg);
+  span{
+    color: red;
+  }
+}

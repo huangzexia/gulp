@@ -1,0 +1,29 @@
+{
+  "name": "zhuniu3.0",
+  "version": "3.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zhuniu"
+  ],
+  "author": "shanren",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-es2015": "^6.13.2",
+    "browser-sync": "^2.14.0",
+    "cssnext": "^1.8.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-content-includer": "0.0.7",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-postcss": "^6.2.0",
+    "gulp-rev-append": "^0.1.7",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^2.0.0"
+  }
+}
